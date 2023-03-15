@@ -5,6 +5,7 @@ We will be solving the following hamiltonian and calculate Kohn-Sham wavefunctio
 
 $$\hat{H} = \hat{T} = -\frac12 \frac{d^2}{dx^2} + x^2 + v_{Ha}(x) + v_X^{LDA}(x)$$
 ### Directory Tree
+```bash
 python-dft
 ├── notebooks
 │   ├── 1-differential-operators.ipynb
@@ -16,3 +17,4 @@ python-dft
 │   └── 7-self-consistent-DFT-HO.ipynb
 ├── python-dft-exercises.pdf
 └── utils.py
+```
